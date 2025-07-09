@@ -1,2 +1,2 @@
-# My-first-code
+#  Amit kumar
 this is my first repositery
